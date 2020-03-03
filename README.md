@@ -1,6 +1,8 @@
 # fruitapi
 
-First
+### db import for mysql 
+local/apifruitdb.sql
+### First
 
 composer install
 
